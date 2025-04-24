@@ -1,6 +1,6 @@
 # mcp-register README
 
-This extension provides a command to easily set up your MCP (Multi-Cloud Project) configurations in VS Code's global settings.
+This extension provides a command to easily set up your MCP (Model Context Protocol) configurations in VS Code's global settings.
 
 ## Features
 
