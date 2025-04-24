@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "mcp-register.helloWorld",
-        "title": "Hello World"
+        "command": "mcp-register.sync-mcp-settings",
+        "title": "Sync MCP Settings"
       }
     ]
   },
